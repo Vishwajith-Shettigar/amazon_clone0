@@ -57,8 +57,8 @@ auth.createUserWithEmailAndPassword(email,password)
     <button onClick={login} type="submit" className='login__signin'>Sign in</button>
 
 </form>
-<p>By continuing, you agree to Amazon's Conditions of Use and Privacy Notice.</p>
-<p> New to Amazon?</p>
+<p className='login__P'>By continuing, you agree to Amazon's Conditions of Use and Privacy Notice.</p>
+<p className='login__P'> New to Amazon?</p>
 <button onClick={register} className='login__register'>Create your Amazon Account</button>
 </div>
 
