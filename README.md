@@ -1,3 +1,6 @@
+
+open https://clone-aa6d6.web.app/ to view the app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
